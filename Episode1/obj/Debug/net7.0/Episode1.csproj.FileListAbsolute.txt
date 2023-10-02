@@ -1,0 +1,15 @@
+C:\Files\Code\Course\Episode1\bin\Debug\net7.0\Episode1.exe
+C:\Files\Code\Course\Episode1\bin\Debug\net7.0\Episode1.deps.json
+C:\Files\Code\Course\Episode1\bin\Debug\net7.0\Episode1.runtimeconfig.json
+C:\Files\Code\Course\Episode1\bin\Debug\net7.0\Episode1.dll
+C:\Files\Code\Course\Episode1\bin\Debug\net7.0\Episode1.pdb
+C:\Files\Code\Course\Episode1\obj\Debug\net7.0\Episode1.csproj.AssemblyReference.cache
+C:\Files\Code\Course\Episode1\obj\Debug\net7.0\Episode1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\Code\Course\Episode1\obj\Debug\net7.0\Episode1.AssemblyInfoInputs.cache
+C:\Files\Code\Course\Episode1\obj\Debug\net7.0\Episode1.AssemblyInfo.cs
+C:\Files\Code\Course\Episode1\obj\Debug\net7.0\Episode1.csproj.CoreCompileInputs.cache
+C:\Files\Code\Course\Episode1\obj\Debug\net7.0\Episode1.dll
+C:\Files\Code\Course\Episode1\obj\Debug\net7.0\refint\Episode1.dll
+C:\Files\Code\Course\Episode1\obj\Debug\net7.0\Episode1.pdb
+C:\Files\Code\Course\Episode1\obj\Debug\net7.0\Episode1.genruntimeconfig.cache
+C:\Files\Code\Course\Episode1\obj\Debug\net7.0\ref\Episode1.dll
