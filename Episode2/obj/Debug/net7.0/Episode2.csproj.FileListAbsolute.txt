@@ -1,0 +1,15 @@
+C:\Files\Code\CourseGankiewicz\Episode2\bin\Debug\net7.0\Episode2.exe
+C:\Files\Code\CourseGankiewicz\Episode2\bin\Debug\net7.0\Episode2.deps.json
+C:\Files\Code\CourseGankiewicz\Episode2\bin\Debug\net7.0\Episode2.runtimeconfig.json
+C:\Files\Code\CourseGankiewicz\Episode2\bin\Debug\net7.0\Episode2.dll
+C:\Files\Code\CourseGankiewicz\Episode2\bin\Debug\net7.0\Episode2.pdb
+C:\Files\Code\CourseGankiewicz\Episode2\obj\Debug\net7.0\Episode2.csproj.AssemblyReference.cache
+C:\Files\Code\CourseGankiewicz\Episode2\obj\Debug\net7.0\Episode2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\Code\CourseGankiewicz\Episode2\obj\Debug\net7.0\Episode2.AssemblyInfoInputs.cache
+C:\Files\Code\CourseGankiewicz\Episode2\obj\Debug\net7.0\Episode2.AssemblyInfo.cs
+C:\Files\Code\CourseGankiewicz\Episode2\obj\Debug\net7.0\Episode2.csproj.CoreCompileInputs.cache
+C:\Files\Code\CourseGankiewicz\Episode2\obj\Debug\net7.0\Episode2.dll
+C:\Files\Code\CourseGankiewicz\Episode2\obj\Debug\net7.0\refint\Episode2.dll
+C:\Files\Code\CourseGankiewicz\Episode2\obj\Debug\net7.0\Episode2.pdb
+C:\Files\Code\CourseGankiewicz\Episode2\obj\Debug\net7.0\Episode2.genruntimeconfig.cache
+C:\Files\Code\CourseGankiewicz\Episode2\obj\Debug\net7.0\ref\Episode2.dll

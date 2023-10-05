@@ -4,7 +4,7 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Episode1.Models
+namespace Episode2.Models
 {
     public class User
     {
